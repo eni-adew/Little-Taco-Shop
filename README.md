@@ -8,4 +8,4 @@ This is a simple website built with only HTML which showcases a shop that sells 
 
 ## Links to Related Info
 
-- [Course Link]("https://youtu.be/mJgBOIoGihA")
+- [Course Link](https://youtu.be/mJgBOIoGihA)
